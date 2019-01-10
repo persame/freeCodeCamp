@@ -78,3 +78,8 @@ var code = ".container {grid-gap: 10px 20px;}"
 ```
 
 </section>
+## Solution 2
+<!--the first is row size,the second is columns size-->
+    /* add your code below this line */
+    grid-gap:10px 20px;
+    /* add your code above this line */
